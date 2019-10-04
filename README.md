@@ -21,7 +21,7 @@
 
 
 
-  [![Build Downloader WindowsMediaPlayer ](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/MediaPlayerDesktopPC/WindowsMediaPlayer/releases/tag/v75.1.140-pre01)
+  [![Build Downloader WindowsMediaPlayer ](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/MediaPlayerDesktopPC/WindowsMediaPlayer/releases/tag/) <!--(v75.1.140-pre01)-->
 
 
 > # Some Screenshots
