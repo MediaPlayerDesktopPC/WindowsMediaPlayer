@@ -22,9 +22,9 @@
 ***
 
 # **``The Prerequisites are Required:``**
- > ## ```Microsoft Windows OS 8.1 and 10 Desktop```
+ > ### ```Microsoft Windows OS Desktop PC [Win7] and [Win8.1] and [Win10] ```
  > ## ```Microsoft Visual Studio 2015 Update 3```
- > ## ```Microsoft .NET Framework 4.7```
+ > ## ```Microsoft .NET Framework 2.0```
  > ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
 
 
@@ -62,13 +62,15 @@
 -->
 
 
-
+<!--
 **If you enjoy this CefSharp, please consider [supporting me](https://www.paypal.me/MohamedOsama914/10) for developing and maintaining this CefSharp Web Browser.**
-
+-->
+<!--
 <p align="center">
   <a href="https://www.paypal.me/MohamedOsama914">
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
   </a>
 </p>
 </div>
+-->
 
