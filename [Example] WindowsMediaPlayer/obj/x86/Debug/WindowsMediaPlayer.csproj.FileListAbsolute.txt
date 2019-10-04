@@ -1,0 +1,12 @@
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.WindowsMediaPlayer.resources
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.Properties.Resources.resources
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.csproj.GenerateResource.Cache
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\bin\ExampleX86\WindowsMediaPlayer.exe
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\bin\ExampleX86\WindowsMediaPlayer.pdb
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\bin\ExampleX86\Interop.WMPLib.dll
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\bin\ExampleX86\AxInterop.WMPLib.dll
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.exe
+E:\Applications\@AutoFeaturesExample\Example\[Example] WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.pdb
