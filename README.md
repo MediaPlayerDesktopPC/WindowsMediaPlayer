@@ -7,6 +7,16 @@
 <a href="https://github.com/MediaPlayerDesktopPC/WindowsMediaPlayer/releases"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Windows.CI.Build.svg" alt="Windows.Build.Create" /></a>
 <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
 
+***
+
+# <details><summary> PayPal Payments Standard Donate </summary>  <br /> <p> <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Button%20PayPal%20Donate.png" alt="PayPal Payments Standard Donate" /></a></p>  <br /> <p> <a href="http://paypal.me/MohamedOsama914/5"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px" alt="PayPal Payments Standard Donate" /></a></p>
+</details> 
+
+## <details><summary> PayPal Credit Card</summary>  <br /> <p> <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
+</p>
+</details>
+
+***
 
 ## Windows Media Player
 > #### based on [Windows Media Player COM] Component implementation media file player
@@ -35,14 +45,7 @@
   
 
 
-***
 
-# <details><summary> PayPal Payments Standard Donate </summary>  <br /> <p> <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Button%20PayPal%20Donate.png" alt="PayPal Payments Standard Donate" /></a></p>  <br /> <p> <a href="http://paypal.me/MohamedOsama914/5"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px" alt="PayPal Payments Standard Donate" /></a></p>
-</details> 
-
-## <details><summary> PayPal Credit Card</summary>  <br /> <p> <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
-</p>
-</details>
 
 
 <!--
