@@ -26,10 +26,11 @@
 
 > # Some Screenshots
   
-[![WindowsMediaPlayer P ](https://user-images.githubusercontent.com/12082147/63095869-9ba27800-bf6c-11e9-82c6-59b1c859a29c.png)](http://paypal.me/MohamedOsama914/5)
-
+[![WindowsMediaPlayer ]()](http://paypal.me/MohamedOsama914/5)
+<!--https://user-images.githubusercontent.com/12082147/63095869-9ba27800-bf6c-11e9-82c6-59b1c859a29c.png-->
   
-![ Available Windows Media Player](https://user-images.githubusercontent.com/12082147/62966521-7f38fb00-be07-11e9-95ab-ef7835065fdc.png)
+![ Available Windows Media Player]()
+<!--(https://user-images.githubusercontent.com/12082147/62966521-7f38fb00-be07-11e9-95ab-ef7835065fdc.png)-->
 
 
 ***
