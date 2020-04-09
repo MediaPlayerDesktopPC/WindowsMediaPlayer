@@ -24,7 +24,7 @@
 ***
 
 # **``The Prerequisites are Required:``**
- > ### ```Microsoft Windows OS Desktop PC [Win7] and [Win8.1] and [Win10] ```
+ > ### ```Microsoft Windows OS Desktop PC [Win8.1] and [Win10] ```
  > ## ```Microsoft Visual Studio 2015 Update 3```
  > ## ```Microsoft .NET Framework 2.0```
  > ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
